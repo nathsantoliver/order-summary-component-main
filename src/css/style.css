@@ -22,7 +22,7 @@ Weights: 500, 700, 900
 }
 
 body {
-    background: var(--primary-pale-blue) url('img/pattern-background-desktop.svg') no-repeat;
+    background: var(--primary-pale-blue) url('../img/pattern-background-desktop.svg') no-repeat;
     background-size: 100% 420px;
     width: 100%;
     min-height: 100vh;
