@@ -41,7 +41,7 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 ### Links
 
 - Solution URL: [GitHub Solution](https://github.com/nathsantoliver/order-summary-component-main/)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Order Summary Card](https://order-summary-component-main-one-pi.vercel.app/)
 
 ## My process
 
